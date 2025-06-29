@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+.*
+# Ignore files for PNPM, NPM and YARN, Bun
+yarn.lock
+
+# ignore all json files
+**/*.json
+
+# ignore MD files
+**/*.md
+
+# ignore scss files
+**/*.scss
+dist

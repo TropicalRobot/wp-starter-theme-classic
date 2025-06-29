@@ -1,0 +1,10 @@
+# Node and build stuff
+node_modules/
+dist/
+
+# OS or IDE files
+.DS_Store
+.idea/
+.env
+.env.*
+!.env.example
